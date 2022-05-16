@@ -1,4 +1,4 @@
 # PROJET WEBDEV 
-Projet fai par TEMMAR Fahd et OUAZZANI TOUHAMI Hicham. 
+Projet fait par TEMMAR Fahd et OUAZZANI TOUHAMI Hicham. 
 
 
